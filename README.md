@@ -23,5 +23,3 @@ MotoTrack - Intelligent Bike Maintenance Platform
 LinkedIn:
 https://www.linkedin.com/in/vignesh-biji-c
 
-GitHub:
-https://github.com/vigneshbiji-dev
