@@ -12,23 +12,25 @@
 - Express.js
 - MongoDB
 - Git & GitHub
+- PostgreSQL
+- Redis
+- Prisma
 
-## 🏍️ Current Project
+## 🏍️ Completed Project
 
-### MotoTrack - Intelligent Bike Maintenance & Analytics Platform
+### Moto2Travel - Intelligent Bike Maintenance & Analytics Platform
 
 A MERN stack project designed to help riders manage and monitor their motorcycles efficiently.
 
-### Planned Features
+### Features
 
 - Fuel Log Management
 - Mileage Calculator
 - Service History Tracking
 - Maintenance Reminders
-- Issue Reporting System
 - Analytics Dashboard
-- Admin Resolution Portal
-- Email Notifications
+- Expense tracking
+- Fuel Expense tracking
 
 📚 Interested In
 - Full Stack Development
